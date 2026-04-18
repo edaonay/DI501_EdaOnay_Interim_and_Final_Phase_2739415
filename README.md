@@ -46,5 +46,5 @@ How to Run
 3. Open the notebook in the `notebooks/` folder.
 4. Run the notebook cells in order.
 
-Notes
+Notes:
 The notebook uses relative paths so that the project can be executed within this folder structure across different operating systems (I made the project with MacOS so I tried my best to make it operate smoothly on other OS too). Some large raw data files may be excluded from Git tracking for repository compatibility, while still remaining part of the local project folder. Also, since two of the .csv files were too big to commit to GitHub, I uploaded them to my Google Drive: https://drive.google.com/drive/folders/1lNY-2mdFPFDKf252v8fxymt_NndDWzsv?usp=sharing
