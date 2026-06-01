@@ -1,0 +1,2 @@
+n_dummy_only_correct,n_tuned_only_correct,McNemar exact p,McNemar chi-sq p,Reject H0 (alpha=0.05)
+394,128,1.6449337527452788e-32,4.182147611545488e-31,True
